@@ -3,7 +3,7 @@ from button import rayonlar,yunusobod_hotel,olmazor_hotel,uch_tepahotel,Mirzo_ul
 
 from aiogram import Bot, Dispatcher, executor, types
 
-API_TOKEN = '6222915607:AAFIomgOMWtgj2UumFVOjyQWVcEuuPe-rzM'
+API_TOKEN = ''
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
